@@ -27,8 +27,9 @@
   The **benefits** to rodent using labs and the whole scientific community are big, where the main ones are:
   - Save tremendous amount of human time
   - create a standartization of behavioral scoring
-  - Save lab from doing this very annoying task!
+  - Save lab people from doing this very annoying task!!
   
+  ### Example of output file:
   ![Example of partial output excel file](Images/ExampleOfRawExcel.jpg)
  
 ## Project Goals
@@ -38,5 +39,6 @@
   4. Train a NN that is able to relaible score a video of Long Evans rat
   5. Obtain more types of videos and data to create a more reliable NN
   
+  ### Example of Research results - poster - how this task contibutes to science!
    ![Example of Research results - poster](Images/Poster.jpg)
 
