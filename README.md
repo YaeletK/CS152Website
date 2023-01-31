@@ -1,7 +1,5 @@
-# YaeletK.github.io
-Project name
-  Scoring Rats Behavior Using Neural Networks
-100 to 300 word project description
+# Scoring Rats Behavior Using Neural Networks
+
   Scoring behavior of rodents is part of many Behavioral Neuroscience Reasearch Labs around the world. 
   These labs are using rodents in order to understand different behaviors, and research the brain sections and pathways related to such behaviors.
   Behavrios can be from simple movement all the way to understanding fear, decision making, instincts and many more.
