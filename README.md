@@ -28,6 +28,8 @@
   - Save tremendous amount of human time
   - create a standartization of behavioral scoring
   - Save lab from doing this very annoying task!
+  
+  ![Example of output excel file](CI-D1.xlsx)
  
 ## Project Goals
   1. Create a relevant dataset for training a NN for scoring (based on existing data)
