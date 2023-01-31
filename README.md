@@ -1,12 +1,14 @@
 # Scoring Rats Behavior Using Neural Networks
-
+## Introduction
   Scoring behavior of rodents is part of many Behavioral Neuroscience Reasearch Labs around the world. 
   These labs are using rodents in order to understand different behaviors, and research the brain sections and pathways related to such behaviors.
   Behavrios can be from simple movement all the way to understanding fear, decision making, instincts and many more.
   The act of scoring means taking a video of a rodent, and analyzing its behavior throughout the video, in periods of interest.
   Today, this is done by researchers in variuos labs, some has programs to make the process more efficent, but in general it is a lengthy process
     which differs based on the human doing the scoring, thus, there are differences in scores, especially across labs.
-  
+    
+
+## Challenges and Benefits
   This project will focus on automating scoring by training neural networks (NN) to do this task for Long Evans rats regarding 4 behaviors - 
   freezing, port/reward seeking, exploring and dirting.
   There are few main challenges:
@@ -24,8 +26,8 @@
   The benefits to rodent using labs and the whole scientific community are big, where the main ones are:
   - Save tremendous amount of human time
   - create a standartization of behavioral scoring
-  
-List of three to five goals
+ 
+## Project Goals
   1. Create a relevant dataset for training a NN for scoring (based on existing data)
   2. Develop an application/simple GUI to deploy the NN
   3. Enable the app to ignore irrelavnt parts of the video based on additional file
