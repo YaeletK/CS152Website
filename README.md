@@ -7,6 +7,7 @@
   Today, this is done by researchers in variuos labs, some has programs to make the process more efficent, but in general it is a lengthy process
     which differs based on the human doing the scoring, thus, there are differences in scores, especially across labs.
     
+![Image of a rat from my research](Images/RatVideo1.jpg)
 
 ## Challenges and Benefits
   This project will focus on automating scoring by training neural networks (NN) to do this task for Long Evans rats regarding 4 behaviors - 
