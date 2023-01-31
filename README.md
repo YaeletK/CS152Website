@@ -29,7 +29,7 @@
   - create a standartization of behavioral scoring
   - Save lab from doing this very annoying task!
   
-  ![Example of output excel file](CI-D1.xlsx)
+  ![Example of partial output excel file](Images/ExampleOfRawExcel.jpg)
  
 ## Project Goals
   1. Create a relevant dataset for training a NN for scoring (based on existing data)
@@ -37,4 +37,6 @@
   3. Enable the app to ignore irrelavnt parts of the video based on additional file
   4. Train a NN that is able to relaible score a video of Long Evans rat
   5. Obtain more types of videos and data to create a more reliable NN
+  
+   ![Example of partial output excel file](Images/Poster-Pomona.pdf)
 
