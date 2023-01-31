@@ -38,5 +38,5 @@
   4. Train a NN that is able to relaible score a video of Long Evans rat
   5. Obtain more types of videos and data to create a more reliable NN
   
-   ![Example of partial output excel file](Images/Poster-Pomona.pdf)
+   ![Example of Research results - poster](Images/Poster.jpg)
 
